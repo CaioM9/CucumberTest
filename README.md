@@ -26,5 +26,7 @@ Execute o bundle init na raiz do projeto
 - Execução dos Testes:
 
 Execute o comand: "Cucumber" na raiz do projeto
+
 ou 
+
 Execute o comando: "Cucumber --format html --out relatorio.html" para um relatório detalhado em HTML.
