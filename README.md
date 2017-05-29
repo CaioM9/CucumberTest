@@ -1,4 +1,4 @@
-#  Projeto de Testes com Ruby, Cucumber e Selenium WebDriver
+#  Exercício 1 - Ruby, Cucumber e Selenium WebDriver
 
 - Motivação para usar Selenium:
 
