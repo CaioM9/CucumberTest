@@ -8,6 +8,8 @@ tenho conhecimento e tempo de trabalho, a base lógica da linguagem me proporcio
 mais sobre a Ruby e o Cucumber.
 
  - Preparação do Ambiente:
+ 
+Baixe o repositório 
 
 Instale o Ruby 2.4.1-1 x64: https://rubyinstaller.org/downloads/
 
