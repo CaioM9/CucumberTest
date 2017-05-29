@@ -21,8 +21,6 @@ Executar gem sources -u
 
 Executar gem install bundler
 
-Execute o bundle init na raiz do projeto
-
 - Execução dos Testes:
 
 Execute o comand: "Cucumber" na raiz do projeto
