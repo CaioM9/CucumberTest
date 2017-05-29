@@ -1,6 +1,6 @@
 #  Projeto de Testes com Ruby, Cucumber e Selenium WebDriver
 
-- Motivaçãoo para usar Selenium:
+- Motivação para usar Selenium:
 
 Selenium WebDriver é uma ferramenta opesource com uma base grande de conhecimento disponível 
 na web e de fácil acesso.  Utilizei o selenium porque é a ferramenta de automação que eu mais
@@ -8,6 +8,7 @@ tenho conhecimento e tempo de trabalho, a base lógica da linguagem me proporcio
 mais sobre a Ruby e o Cucumber.
 
 Instale o Ruby 2.4.1-1 x64: https://rubyinstaller.org/downloads/
+
 Instale o Devkit 4.7.2 x64 : https://rubyinstaller.org/downloads/
 Execute o bundle install na raiz do projeto
 Executar gem sources -a http://rubygems.org/ - Adiciona o novo protocolo HTTP
